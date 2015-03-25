@@ -1,0 +1,12 @@
+<html>
+<head>
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+	<h1>Here is a heading with the styles of the styles.css file!</h1>
+	<h2>Here is another heading with the same styles!</h2>
+	<p>This is a paragraph that has the styles from an external file!</p>
+	<pre>HTML is so fun!</pre>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<html>
+
+<head>
+<style>
+	body  {background-color:linen}
+	h1    {color:red; font-family:arial; font-size:300%;}
+	h2    {color:green; font-family:verdana; font-size:200%;}
+	p     {color:orange; font-family:courier; font-size:100%;}
+	pre   {color:blue; font-family:calibri; font-size:50%;}
+</style>
+</head>
+
+<body> <center>
+	<h1>This is a really big heading</h1>
+	<h2>This is a smaller heading </h2>
+	<p>This is a paragraph even though its too short to be one</p>
+	<pre>I bet its hard to read this!</pre>
+</center>
+</body>
+</html>

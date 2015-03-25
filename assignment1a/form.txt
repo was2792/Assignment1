@@ -1,0 +1,54 @@
+<html>
+<h1>Please fill out all information!</h1>
+
+<form>
+First Name:<br>
+<input type="text" name="firstname">
+<br>
+Last Name:<br>
+<input type="text" name="lastname">
+<br>
+Age:<br>
+<input type="text" name="age">
+<br>
+Address:<br>
+<input type="text" name="address">
+<br>
+<br>
+Sex:
+<br>
+<input type="radio" name="sex" value="male" checked>Male
+<br>
+<input type="radio" name="sex" value="female">Female
+<br>
+<br>
+Choose all that apply:
+<br>
+<input type="checkbox" name="school" value="highschool">Highschool Diploma
+<br>
+<input type="checkbox" name="school" value="college">Bachelor's Degree
+<br>
+<input type="checkbox" name="school" value="masters">Masters
+<br>
+<input type="checkbox" name="school" value="doc">Doctorate
+<br>
+<br>
+Choose State:
+<br>
+<select>
+<option value="ky">Kentucky</option>
+<option value="tn">Tennessee</option>
+<option value="fl">Florida</option>
+<option value="ca">California</option>
+</select>
+<br>
+<br>
+<textarea rows="4" cols="50">
+Please enter any additional information or comments here!
+</textarea>
+<br>
+<br>
+<br>
+<input type="submit" value="Submit">
+</form>
+</html>

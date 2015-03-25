@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>This is Assignment 1 for CIS 411!</title>
+</head>
+<body>
+<h1>Hi! My name is Alex Shelton.</h1>
+<h2>CIS 411 Assignment 1</h2>
+</body>
+<pre>
+I am not an expert in HTML but I have used it before 
+and I am looking forward to learning more about it!
+Here is a list of my Hobbies.
+</pre>
+<ul type="square">
+<li>Video Games
+<li>Crossfit
+<li>Netflix
+</ul>
+<p> Here are some pictures of me that get smaller and smaller! </p>
+<img src="profilepic.jpg" alt="This is me!" height="200" width="200">
+<img src="profilepic.jpg" alt="This is me a little smaller!" height="150" width="150">
+<img src="profilepic.jpg" alt="This is me even smaller!" height="100" width="100">
+<h3>
+Here is a table of foods and how much I like them:
+</h3>
+<table border=1>
+<tr>
+<td></td>
+<td>Fruits</td>
+<td>Vegetables</td>
+<td>Meats</td>
+</tr>
+<tr>
+<td>Favorite</td>
+<td>Bananas</td>
+<td>Sweet Potato</td>
+<td>Steak</td>
+</tr>
+<tr>
+<td>Medium Favorite</td>
+<td>Pineapples</td>
+<td>Broccoli</td>
+<td>Chicken</td>
+</tr>
+<tr>
+<td>Least Favorite</td>
+<td>Kiwi</td>
+<td>Brussel Sprouts</td>
+<td>Turkey</td>
+</tr>
+</table>
+</html>

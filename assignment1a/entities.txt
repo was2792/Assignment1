@@ -1,0 +1,5 @@
+<html>
+<h1>This is a simple file that will show some entitys.</h1><br>
+Because you use certain symbols such as &It; and &gt; to write in HTML<br>
+They are given special entity names so that they still may be used!
+</html>
